@@ -1,2 +1,2 @@
-# responsive-navigation-menu
-Simple Responsive Navigation Menu
+# my-components
+Simple Responsive Navigation Menu, Header, Footer
